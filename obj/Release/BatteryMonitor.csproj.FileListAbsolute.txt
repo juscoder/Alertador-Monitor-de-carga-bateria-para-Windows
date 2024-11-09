@@ -1,0 +1,10 @@
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\bin\Release\BatteryMonitor.exe.config
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\bin\Release\BatteryMonitor.exe
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\bin\Release\BatteryMonitor.pdb
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.csproj.AssemblyReference.cache
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.Form1.resources
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.Properties.Resources.resources
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.csproj.GenerateResource.cache
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.exe
+C:\Users\Equipo\Downloads\Proyectos en Csharp\BatteryMonitor\obj\Release\BatteryMonitor.pdb
